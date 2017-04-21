@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Viet Tran, IISAS,  2015
+# Viet Tran, Miroslav Dobrucky IISAS,  2017
 # Scripting for installing all necessary packages needed for GPU apps on vanilla Ubuntu image
 # Make sure to choose cloud image with UEFI support 
 # https://cloud-images.ubuntu.com/trusty/current/trusty-server-cloudimg-amd64-uefi1.img
